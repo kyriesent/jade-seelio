@@ -6,7 +6,7 @@
   "keywords": [
     "template"
   ],
-  "main": "lib/runtime.js",
+  "main": "runtime.js",
   "dependencies": {},
   "license": "MIT"
 }
